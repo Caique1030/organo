@@ -1,10 +1,10 @@
-.formulario {
+.Form {
     display: flex;
     justify-content: center;
     margin: 80px 0;
 }
 
-.formulario form {
+.Form form {
     max-width: 80%;
     background-color: #F2F2F2;
     border-radius: 20px;
